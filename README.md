@@ -1,6 +1,6 @@
 Objective : Build a basic calculator using Java console I/O
 
-Tools: Intel IJ community version , Java(JDK), Terminal/CommandPrompt
+Tools: Intel IJ community version or any editor , Java(JDK), Terminal/CommandPrompt
 
 Deliverables: Java source code (.java file)
 
